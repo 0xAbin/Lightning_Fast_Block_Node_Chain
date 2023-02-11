@@ -22,5 +22,8 @@ user 1 ------------Block - Node --------------- user 2
 Pow (zkp)
 
 Test ()
-Node ()
+Block (1)
+Node (3)
+Tree (1 P ,  )
+Cpu (computation)
 
