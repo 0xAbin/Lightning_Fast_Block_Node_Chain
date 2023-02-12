@@ -25,5 +25,7 @@ Test ()
 Block (1)
 Node (3)
 Tree (1 P ,  )
-Cpu (computation)
+Cpu (computation) MxA ()
+Hxt (30 MH)
+
 
