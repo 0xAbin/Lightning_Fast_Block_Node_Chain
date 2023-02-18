@@ -1,0 +1,1 @@
+30 MH -    test    -    GPU (1080 ti Not overclocked)
