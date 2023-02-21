@@ -1,3 +1,6 @@
 30 MH -    test    -    GPU (1080 ti Not overclocked)
  KHj  (220)
  W = 198 
+
+
+Networking -  Port  (?) (P2P)   val - 1 
