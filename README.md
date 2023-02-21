@@ -1,5 +1,5 @@
 # Lightning_Fast_Block_Node_Chain
- Lighting fast Network ( BlockNode )
+ Lighting fast Node Network ( BlockNode )
  
 _____________________________________
 
