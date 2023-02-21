@@ -19,7 +19,7 @@ Documentation : 06/05/2023
 
 
 user 1 ------------Block - Node --------------- user 2
-Pow (zkp)
+ 
 
 
 
