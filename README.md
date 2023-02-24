@@ -1,5 +1,5 @@
 # Lightning_Fast_Block_Node_Chain
- Lighting fast Network ( BlockNode )
+ Lighting fast Node Network ( BlockNode )
  
 _____________________________________
 
@@ -19,16 +19,7 @@ Documentation : 06/05/2023
 
 
 user 1 ------------Block - Node --------------- user 2
-Pow (zkp)
-
-Test ()
-Block (1)
-Node (3)
-Tree (1 P ,  )
-Cpu (computation) MxA ()
-Hxt (30 MH) 
-(1600mhz) x ()
+ 
 
 
-TPS test (1)
 
