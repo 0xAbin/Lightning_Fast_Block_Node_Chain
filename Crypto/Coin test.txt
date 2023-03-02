@@ -2,5 +2,5 @@ Coin Name  : LFBNCN
 
 Coin ID : 
 
-Coin Supply : 03.04.2001
+Coin Supply : 3042001
 
