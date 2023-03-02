@@ -44,8 +44,8 @@ public:
     std::vector<Block> blocks;
 
     Blockchain() {
-        // Create the genesis block
-        Block genesisBlock(0, "01/01/2023", "LFNBlockNode", "0");
+        // Create the genesis block ()                                                            block 1
+         Block genesisBlock(0, "01/01/2023", "LFNBlockNode", "0");
         blocks.push_back(genesisBlock);
     }
 
