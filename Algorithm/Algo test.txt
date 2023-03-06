@@ -5,3 +5,6 @@ al 2=  Pos or  pou  with vald (algo hx)
 al 3 = POW Adv  
 
 al 4 = POS (VAL 1)
+
+
+al 5 = POS (ROOT zkp)
