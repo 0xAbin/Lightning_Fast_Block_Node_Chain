@@ -17,3 +17,5 @@ int main()
     }
         
       
+    
+    nu2-> next ;
