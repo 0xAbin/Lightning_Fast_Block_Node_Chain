@@ -7,3 +7,6 @@ Networking -  Port  (?) (P2P)   val - 1
  Main net - 
  
  Test net -
+
+
+ AWS docker run 
