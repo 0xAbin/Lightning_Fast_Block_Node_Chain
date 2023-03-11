@@ -10,3 +10,5 @@ Networking -  Port  (?) (P2P)   val - 1
 
 
  AWS docker run 
+    - Linux(docker) Mu
+    - Linux(docker) Usa
