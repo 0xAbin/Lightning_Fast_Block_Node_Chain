@@ -8,3 +8,6 @@ Coin Supply : 3042001
 DEV net - 
 
 no airdrop
+
+
+Coin pk/NEt/TCP
