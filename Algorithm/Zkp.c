@@ -92,3 +92,8 @@ int main() {
 
     return 0;
 }
+
+
+//root auth (data =  user 1 and user 2)
+
+//subtree(data = block information with key )
