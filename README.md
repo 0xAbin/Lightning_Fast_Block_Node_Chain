@@ -9,7 +9,7 @@ IEEE paper : 07/06/2023
 System Design :  05/04/2023  (https://www.figma.com/file/9jDyaipTw8uPFpdnWrpxbY/LFBNC-System-Design?t=ADedw58h1SePNka0-1)  (will update)
   
 
-Website : 03/03/2023 --(Deve stage)
+Website : 03/03/2023 --(Dev stage)
 
 Documentation : 06/05/2023
 
