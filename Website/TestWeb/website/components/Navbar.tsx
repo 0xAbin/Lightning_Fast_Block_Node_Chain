@@ -11,12 +11,38 @@ interface NavItem {
     page:string
 }
 
+const NAV_ITEMS: Array<NavItem> = [
+  {
+    label: "Home",
+    page: "home",
+  },
+  {
+    label : "About",
+    page: "about",
+
+  },
+  {
+    label:"Projects",
+    page:"projects",
+  },
+
+]
 
 
 
 const Navbar = () => {
-    return  (
-        <div>Navbar</div>
-    )
+    const {systemTheme, theme, setTheme} = useTheme()
+    const currentTheme = theme === "system" ? systemTheme : theme
+    const [navbar, setNavbar] = useState(false) 
+    
+    
+    return <header>
+        <div>
+            <></>
+
+        </div>
+        </header>
+       
+    
 }
 export default Navbar
