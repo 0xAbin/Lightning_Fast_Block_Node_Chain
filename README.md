@@ -6,7 +6,7 @@ _____________________________________
 
 IEEE paper :  2023
 
-System Design :  2023 (https://www.figma.com/file/9jDyaipTw8uPFpdnWrpxbY/LFBNC-System-Design?t=ADedw58h1SePNka0-1)  (will update)
+System Design :  2023 (https://www.figma.com/file/9jDyaipTw8uPFpdnWrpxbY/LFBNC-System-Design?t=ADedw58h1SePNka0-1)  (will-update)
   
 
 Website :  2023 --( (UI) Dev )
