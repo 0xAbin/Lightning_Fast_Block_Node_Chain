@@ -21,7 +21,7 @@ int main() {
     mpz_init_set_ui(x, 42);
 
     // Set the value of the prime number n
-    mpz_init_set_str(n, "10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000023", 10);
+    mpz_init_set_str(n, "103", 10);
 
     // Generate two random numbers r1 and r2
     mpz_init(r1);
