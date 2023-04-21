@@ -100,4 +100,8 @@ int main() {
     std::string encoded_public_key = base58_encode
 
 
-//wallet id public to BlockChain Header add 
+//wallet id public to BlockChain Header 
+
+//need to add transaction header from main.cpp //
+
+// then send and recive
