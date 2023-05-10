@@ -19,7 +19,7 @@ Documentation :  https://lfnbnc.gitbook.io/blockchain
 
 
 
-user 1 ------------Block  -  Node --------------- user 2
+user 1 ------------Block  -chain-  Node --------------- user 2
  
 
 API to Block Exp (mxexm)
