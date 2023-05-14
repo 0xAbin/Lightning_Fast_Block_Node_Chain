@@ -9,7 +9,7 @@ IEEE paper :  2023
 System Design :  2023 (https://www.figma.com/file/9jDyaipTw8uPFpdnWrpxbY/LFBNC-System-Design?t=ADedw58h1SePNka0-1)  (will-update)
   
 
-Website : https://main.--.amplifyapp.com/  2023 --( (UI) Dev ) Domain  (.blockchain) / (.com) 
+Website : https://main.d2a5uw8gwf7td1.amplifyapp.com  2023 --( (UI) Dev ) Domain  (.blockchain) / (.com) 
 
 Documentation :  https://lfnbnc.gitbook.io/blockchain
 
